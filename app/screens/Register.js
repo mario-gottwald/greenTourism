@@ -15,7 +15,7 @@ const RegisterScreen = ({navigation}) => {
     setLoading(true);
 
     try {
-        await createUserWithEmailAndPassword(auth, email, password);
+        alert(`Keine Registrierung erlaubt. Anmelden mit Demo-User`);
     } catch (error) {
         alert(`Error: ${error.message}`);
         console.log(error);
