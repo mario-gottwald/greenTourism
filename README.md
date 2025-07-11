@@ -19,7 +19,7 @@ Um das Projekt lokal auszuführen:
 
 ```bash
 # 2. Repository klonen
-git clone https://github.com/DEIN-BENUTZERNAME/DEIN-REPO.git
+git clone https://github.com/mario-gottwald/greenTourism.git
 
 # 3. In das Projektverzeichnis wechseln
 cd greenTourism
