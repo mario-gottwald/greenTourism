@@ -29,3 +29,8 @@ npm install
 
 # 5. Expo starten
 npx expo start
+```
+6. Login in der App
+
+**E-Mail**: demo@test.at  
+**Passwort**: Passwort123
