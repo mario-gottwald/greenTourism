@@ -1,6 +1,4 @@
 # greenTourism
-App-Prototyp einer Gamification Anwendung für nachhaltigen Tourismus
-# Mein React Native Projekt
 
 Dies ist ein Prototyp einer mobilen Gamification Anwendung zur Förderung von nachhaltigem Tourismus, entwickelt mit [React Native](https://reactnative.dev/) und [Expo](https://expo.dev/) im Rahmen einer Bachelorarbeit.
 
